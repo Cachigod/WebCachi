@@ -26,6 +26,22 @@
       color: #fff;
       text-align: center;
   }
+
+  .main-content2 {
+    overflow:hidden;
+      position: relative;
+      
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-flow: column;
+      
+      height: 5vh;
+      
+      background: linear-gradient(to right, rgba(36,31,31,1) 0%, rgba(36,31,31,1) 32%, rgba(74,71,70,1) 100%);
+      color: #fff;
+      text-align: center;
+  }
   
   .vignette{
     position:absolute;
