@@ -18,6 +18,16 @@
     margin-right: auto;
 }
 
+.img-nice{
+    width: 50%;
+    height: 50%;
+    padding-bottom: -50%;
+}
+.audio  {
+    position: relative;
+    z-index: +1;
+}
+
 .video::after{
 
     content: "";
