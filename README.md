@@ -45,5 +45,5 @@ Se agregó por medio del código:
 ![2do SS](img/ss2.jpg)
 ![3er SS](img/ss3.jpg)
 ![4to SS](img/ss4.jpg)
-![5to SS](img/ss5.jpg)
+![5to SS](img/ss55.jpg)
 
