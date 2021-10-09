@@ -11,6 +11,16 @@
     
 }
 
+.centrado{
+    /*text-align:center;*/
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align:justify;
+    font-size: large;
+    /*border:1px dotted #000;*/
+    padding:8px;
+}
+
 .navbar-expand-lg {
     color: #00FFFF;
 }

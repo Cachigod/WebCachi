@@ -36,10 +36,8 @@ Se agregó por medio del código:
 
 ## Capturas de la página
 
-Aquí irá una imagen de la página
 ![Primer Screenshot](img/ss1.jpg)
-
 ![Segundo Screenshot](img/ss2.jpg)
-
-![Tercer Screenshot](img/ss4.jpg)
+![Tercer Screenshot](img/ss3.jpg)
+![Cuarto Screenshot](img/ss4.jpg)
 
