@@ -1,5 +1,5 @@
 # WebCachi
-Prueba. En esta página se mencionan algunos hobbies del alumno (en este caso yo) actividades que suele realizar y utilizar su tiempo libre. Esto es una actividad para la clase de Administración de Proyectos de Software, de la carrera de Ingeniería en Computación, dentro de la Facultad de Ingeniería, Arquitectura y Diseño, de la Universidad Autónoma de Baja California. Tiene un diseño sencillo y consta de un solo formulario, se implementó de manera que mantuviera un responsive design.
+En esta página se mencionan algunos hobbies del alumno (en este caso yo) actividades que suele realizar y utilizar su tiempo libre. Esto es una actividad para la clase de Administración de Proyectos de Software, de la carrera de Ingeniería en Computación, dentro de la Facultad de Ingeniería, Arquitectura y Diseño, de la Universidad Autónoma de Baja California. Tiene un diseño sencillo y consta de un solo formulario, se implementó de manera que mantuviera un responsive design.
 
 ## Tecnologías empleadas en la página
 
@@ -19,7 +19,8 @@ Para ello se implementaron los siguientes códigos:
 ```
 
 
-### Otra biblioteca usada fue [Bootstrap](https://fontawesome.com/).
+
+### También se usó la librería [Font Awesome](https://fontawesome.com/).
 
 Se agregó por medio del código:
 
@@ -27,11 +28,18 @@ Se agregó por medio del código:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 ```
 
-Más texto
+
+### Y 
+
+
+
+
+## Capturas de la página
 
 Aquí irá una imagen de la página
 ![Primer Screenshot](img/ss1.jpg)
 
+![Segundo Screenshot](img/ss2.jpg)
 
-Se pueden agregar más elementos
+![Tercer Screenshot](img/ss4.jpg)
 
