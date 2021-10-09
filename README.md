@@ -3,17 +3,29 @@ Prueba. En esta página se mencionan algunos hobbies del alumno (en este caso yo
 
 ## Tecnologías empleadas en la página
 
-Se hizo uso de la biblioteca [Bootstrap](https://getbootstrap.com/)
+### Se hizo uso de la biblioteca [Bootstrap](https://getbootstrap.com/).
 
-Para ello se agregaron las librerías de:
+Para ello se implementaron los siguientes códigos:
 
-### * CSS ONLY *
-`<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">`
+##### *CSS ONLY*
+```
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
+```
 
-### * JavaScript Bundle with Popper *
+##### *JavaScript Bundle with Popper*
 
-`<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>`
+```
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+```
 
+
+### Otra biblioteca usada fue [Bootstrap](https://fontawesome.com/).
+
+Se agregó por medio del código:
+
+```
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+```
 
 Más texto
 
