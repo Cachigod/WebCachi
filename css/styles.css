@@ -16,9 +16,14 @@
     margin-left: 10%;
     margin-right: 10%;
     text-align:justify;
-    font-size: large;
+    font-size: large;    
     /*border:1px dotted #000;*/
     padding:8px;
+}
+
+h1{
+    animation: flipInX;
+    animation-duration: 2.5s;
 }
 
 .navbar-expand-lg {

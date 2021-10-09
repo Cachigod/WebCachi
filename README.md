@@ -29,15 +29,21 @@ Se agregó por medio del código:
 ```
 
 
-### Y 
+### Y finalmente se usó la librería [Animate.css](https://animate.style/).
 
+Se agregó por medio del código:
+
+```
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+```
 
 
 
 ## Capturas de la página
 
-![Primer Screenshot](img/ss1.jpg)
-![Segundo Screenshot](img/ss2.jpg)
-![Tercer Screenshot](img/ss3.jpg)
-![Cuarto Screenshot](img/ss4.jpg)
+![1er SS](img/ss1.jpg)
+![2do SS](img/ss2.jpg)
+![3er SS](img/ss3.jpg)
+![4to SS](img/ss4.jpg)
+![5to SS](img/ss5.jpg)
 
