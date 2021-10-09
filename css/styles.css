@@ -24,6 +24,7 @@
 h1{
     animation: flipInX;
     animation-duration: 2.5s;
+    animation-play-state: initial;
 }
 
 .navbar-expand-lg {
